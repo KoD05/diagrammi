@@ -1,1 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T06:33:13.916Z" agent="5.0 (Windows)" version="20.4.0" etag="02AwJx4U6xC-ZJqXme8M" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7ZjbctowEIafhksYH8LpEggkM22SmZK218JabDWy5MoCQ56+K1uObZzSZJqUdIYrW7/W2tWu9rOh48/i3ZUiSXQjKfCO59Bdx7/seJ7reT5ejLIvlNHQLYRQMWqNKmHJHsGKjlU3jELaMNRScs2SphhIISDQDY0oJbOm2VrypteEhNASlgHhbfU7ozqyu/CGlX4NLIxKz+5gXMzEpDS2O0kjQmVWk/x5x58pKXVxF+9mwE3yyrwUzy1+M/sUmAKhX/IAvd3tbz8Ng+Fo9TnbphRurvtd1y6zJXxjd3ynwiAiStuo9b5MRZqxmBOBo2mkY46ii7epRltbN4wA56Rij1JoUloEZsAEqPt9Yqy0ArNGyElqimOeae+ljAuUhl1Nsnu7AhmDVns0sbMXNs3lObPDrCrasDxTUa1g3tiKxB6U8GnlKpd4Y9OZD7+moO5WP8xx8xxOVsCLRzteX5AY8NLxBhwdTFcK70Kd77BQWCOng58bU35MEZeq40/yNiD7aqJ6vJ/IlGkmRW15jIsdOmi7JGbLCtYNjzFhXMvcZR/MoFj2wO28mHnyRqq1Tc7y3eZbv4c0NX5uGOegbDnLgHOL2eKukLkMSCXfrdcswJQ5tuBFLPkUrn3hwI7ECYdeIGO7KicBRNjGoJqtzZl4KIRIa0OHiamft8iyrEcVyXpMFobHG8KrnTLbQbUesNWesrjgRtNVQIXfY3je10xgfEXQC0o0MZVCPcXrBk9Pl2xRVGkXY1/0jc9cTrs+BjDqJSJEH1nENCwT3C46yhCvzcZTcoNOqO2gejeZBruRW2ZWyU2NsMCUVUq74Y7j4cVt6A2afdhv96E7eqYPh69vQxzWOvE10PNb0GvBDgSdmNcHjlZ4Yh/uI4YndorygvGyBGskm0Wfa8ZA8d1h1wC+ktm8Eqa5gBMmlywwdDwo4StrksqNCuCPRxnfl0SFcHTFC9t7tPEubNdYAcfW3TZfjWdw/g045zQjihpySqVYaqJss3OqiMhtiEDsqKMc9T4IRy9OylHXeTuUNsnZguu7ofTgi8Z95pPmWZSO/iVK+2eUNgwHZ5SeDKVbgoE53/C3m36OotdfULpkCnMmjzO0fB+emqGDkzJ03PX+d4Qefo1+TIYOzwxtGI7ODD0VQye8+AZ1LqWQOU/bHF3uUw0IE2dCYyaOgtT/ICAdnRSkb4LR9/vMHJ+UkShV/4Hm5rV/kv35Lw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-12T07:22:16.662Z" agent="5.0 (Windows)" etag="F1bSorllPzvFhDxgVIVT" version="20.4.0" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="920" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0.458;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.459;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="OpME494cqEdNRCVZSRnK-35" target="OpME494cqEdNRCVZSRnK-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="390" as="sourcePoint" />
+            <mxPoint x="390" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="480" />
+              <mxPoint x="290" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OpME494cqEdNRCVZSRnK-55" value="extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-15">
+          <mxGeometry x="0.2335" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.458;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="OpME494cqEdNRCVZSRnK-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="480" as="sourcePoint" />
+            <mxPoint x="440" y="382" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OpME494cqEdNRCVZSRnK-56" value="implements" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-17">
+          <mxGeometry x="-0.1283" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OpME494cqEdNRCVZSRnK-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="330" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="OpME494cqEdNRCVZSRnK-14" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="50" width="330" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OpME494cqEdNRCVZSRnK-16" value="animale" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="30" width="160" height="10" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div align=&quot;left&quot;&gt;+n : int&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+razza : String&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+nome : String&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+gruppo : String&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+classe : String&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="OpME494cqEdNRCVZSRnK-18">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="254" y="60" width="160" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="OpME494cqEdNRCVZSRnK-31" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="330" height="10" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div align=&quot;left&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+animale(in n:int, in razza:String, &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;in classe:String, in gruppo:String, &lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;in nome:String)&lt;br&gt;+animale()&lt;br&gt;+int getN():int&lt;br&gt;+getnome():String&lt;br&gt;+getClasse():String&lt;br&gt;+getGruppo():String&lt;br&gt;+getRazza():String&lt;br&gt;+setClasse(in classe:String)&lt;br&gt;+setGruppo(in gruppo:String)&lt;br&gt;+setN(in n:String)&lt;br&gt;+nome(in n:String)&lt;br&gt;+setRazza(in razza:String)&lt;br&gt;+getVersocane():print&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="OpME494cqEdNRCVZSRnK-35">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+            <mxGeometry x="254" y="145" width="320" height="235" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="OpME494cqEdNRCVZSRnK-40" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="550" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="OpME494cqEdNRCVZSRnK-41" value="habitat" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="150" y="560" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OpME494cqEdNRCVZSRnK-43" value="" style="line;strokeWidth=2;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="575" width="190" height="10" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div align=&quot;left&quot;&gt;+habitat : String&lt;/div&gt;" placeholders="1" name="Variable" id="OpME494cqEdNRCVZSRnK-44">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+            <mxGeometry x="110" y="585" width="130" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="OpME494cqEdNRCVZSRnK-45" value="" style="line;strokeWidth=2;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="605" width="190" height="10" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div align=&quot;left&quot;&gt;+gethabitat():String&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+sethabitat(in +habitat:String)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="OpME494cqEdNRCVZSRnK-46">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+            <mxGeometry x="110" y="620" width="140" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="OpME494cqEdNRCVZSRnK-48" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="490" y="550" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="OpME494cqEdNRCVZSRnK-49" value="interface" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="560" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OpME494cqEdNRCVZSRnK-51" value="" style="line;strokeWidth=2;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="490" y="575" width="240" height="10" as="geometry" />
+        </mxCell>
+        <UserObject label="+getVersocane()" placeholders="1" name="Variable" id="OpME494cqEdNRCVZSRnK-52">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+            <mxGeometry x="490" y="585" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
