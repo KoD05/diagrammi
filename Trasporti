@@ -1,108 +1,149 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T08:23:22.556Z" agent="5.0 (Windows)" etag="YGW3zn6JagYCYXnvrjKx" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T08:43:06.610Z" agent="5.0 (Windows)" etag="kkiCPlROz8nG7C7J62Ba" version="20.5.3" type="github">
   <diagram id="OHt57S_oIj0kukIc4Xbc" name="Pagina-1">
-    <mxGraphModel dx="745" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fSy2dv5nl_EI74ZkdZb--7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="42.5" width="330" height="177.5" as="geometry" />
+        <mxCell id="fSy2dv5nl_EI74ZkdZb--7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="276" y="440" width="330" height="177.5" as="geometry" />
         </mxCell>
-        <mxCell id="fSy2dv5nl_EI74ZkdZb--8" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="67.5" width="330" height="10" as="geometry" />
+        <mxCell id="fSy2dv5nl_EI74ZkdZb--8" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="276" y="465" width="330" height="10" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div align=&quot;left&quot;&gt;+numero: int&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+fermata[]: fermata&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;+passaggio[]: passaggio&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="fSy2dv5nl_EI74ZkdZb--9">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="243" y="77.5" width="160" height="52.5" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+            <mxGeometry x="280" y="475" width="160" height="52.5" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="fSy2dv5nl_EI74ZkdZb--10" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="238" y="126.25" width="330" height="10" as="geometry" />
+        <mxCell id="fSy2dv5nl_EI74ZkdZb--10" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="523.75" width="330" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="fSy2dv5nl_EI74ZkdZb--11" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="43" y="320" width="227" height="160" as="geometry" />
+        <mxCell id="fSy2dv5nl_EI74ZkdZb--11" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="80" y="717.5" width="227" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="fSy2dv5nl_EI74ZkdZb--12" value="" style="line;strokeWidth=2;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="43" y="340" width="227" height="10" as="geometry" />
+        <mxCell id="fSy2dv5nl_EI74ZkdZb--12" value="" style="line;strokeWidth=2;html=1;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="80" y="737.5" width="227" height="10" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;+fermata: fermata&lt;/div&gt;&lt;div&gt;+orario: String&lt;br&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="fSy2dv5nl_EI74ZkdZb--13">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-            <mxGeometry x="43" y="350" width="150" height="40" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="80" y="747.5" width="150" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="fSy2dv5nl_EI74ZkdZb--14" value="" style="line;strokeWidth=2;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="43" y="385.97" width="227" height="10" as="geometry" />
+        <mxCell id="fSy2dv5nl_EI74ZkdZb--14" value="" style="line;strokeWidth=2;html=1;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="80" y="783.47" width="227" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="fSy2dv5nl_EI74ZkdZb--15" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="443" y="316.62" width="237" height="183.38" as="geometry" />
+        <mxCell id="fSy2dv5nl_EI74ZkdZb--15" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="480" y="714.12" width="237" height="183.38" as="geometry" />
         </mxCell>
-        <mxCell id="fSy2dv5nl_EI74ZkdZb--16" value="" style="line;strokeWidth=2;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="443" y="341.62" width="240" height="10" as="geometry" />
+        <mxCell id="fSy2dv5nl_EI74ZkdZb--16" value="" style="line;strokeWidth=2;html=1;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="480" y="739.12" width="240" height="10" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div align=&quot;left&quot;&gt;+nome: String&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+indirizzo: String&lt;br&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="fSy2dv5nl_EI74ZkdZb--17">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-            <mxGeometry x="443" y="346.62" width="170" height="41.94" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="480" y="744.12" width="170" height="41.94" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="fermata" placeholders="1" name="Variable" id="fSy2dv5nl_EI74ZkdZb--18">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="512" y="316.62" width="80" height="20" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+            <mxGeometry x="549" y="714.12" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="linea" placeholders="1" name="Variable" id="fSy2dv5nl_EI74ZkdZb--19">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="363" y="50" width="80" height="20" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+            <mxGeometry x="400" y="447.5" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="passaggio" placeholders="1" name="Variable" id="fSy2dv5nl_EI74ZkdZb--20">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="101" y="320" width="80" height="20" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+            <mxGeometry x="138" y="717.5" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="fSy2dv5nl_EI74ZkdZb--23" value="" style="line;strokeWidth=2;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="443" y="384.12" width="240" height="10" as="geometry" />
+        <mxCell id="fSy2dv5nl_EI74ZkdZb--23" value="" style="line;strokeWidth=2;html=1;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="480" y="781.62" width="240" height="10" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div align=&quot;left&quot;&gt;+Addfermata(fermata):&amp;nbsp; boolean&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;+linea()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+setnum(int)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+getnum(): int&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="fSy2dv5nl_EI74ZkdZb--25">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-            <mxGeometry x="239" y="150" width="191" height="70" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="276" y="547.5" width="191" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+getorario():string&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+getfermata():string&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+setorario(in classe:String)&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+setfermata(in classe:fermata)&lt;/span&gt;&lt;/pre&gt;" placeholders="1" name="Variable" id="fSy2dv5nl_EI74ZkdZb--26">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-            <mxGeometry x="43" y="397.5" width="227" height="82.5" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="80" y="795" width="227" height="82.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+getnome():string&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+getindirizzo():string&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+setNome(in classe:String)&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+setindirizzo(in classe:String)&lt;/span&gt;&lt;/pre&gt;" placeholders="1" name="Variable" id="fSy2dv5nl_EI74ZkdZb--27">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-            <mxGeometry x="443" y="394.12" width="225" height="85.88" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="480" y="791.62" width="225" height="85.88" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="fSy2dv5nl_EI74ZkdZb--53" value="" style="endArrow=none;html=1;rounded=0;entryX=0.473;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="fSy2dv5nl_EI74ZkdZb--53" value="" style="endArrow=none;html=1;rounded=0;entryX=0.473;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="555" y="320" as="sourcePoint" />
-            <mxPoint x="555.0900000000001" y="220" as="targetPoint" />
+            <mxPoint x="592" y="717.5" as="sourcePoint" />
+            <mxPoint x="592.0900000000001" y="617.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fSy2dv5nl_EI74ZkdZb--54" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.425;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fSy2dv5nl_EI74ZkdZb--20">
+        <mxCell id="fSy2dv5nl_EI74ZkdZb--54" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.425;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="fSy2dv5nl_EI74ZkdZb--20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130.97000000000003" y="317.25" as="sourcePoint" />
-            <mxPoint x="238" y="165" as="targetPoint" />
+            <mxPoint x="167.97000000000003" y="714.75" as="sourcePoint" />
+            <mxPoint x="275" y="562.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="135" y="165" />
+              <mxPoint x="172" y="562.5" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fSy2dv5nl_EI74ZkdZb--56" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="544" y="286.62" width="60" height="30" as="geometry" />
+        <mxCell id="fSy2dv5nl_EI74ZkdZb--56" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="455.5" y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fSy2dv5nl_EI74ZkdZb--57" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="124" y="290" width="60" height="30" as="geometry" />
+        <mxCell id="fSy2dv5nl_EI74ZkdZb--57" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="161" y="687.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fSy2dv5nl_EI74ZkdZb--58" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="178" y="160" width="60" height="30" as="geometry" />
+        <mxCell id="fSy2dv5nl_EI74ZkdZb--58" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="215" y="557.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fSy2dv5nl_EI74ZkdZb--59" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="541" y="226.62" width="60" height="30" as="geometry" />
+        <mxCell id="fSy2dv5nl_EI74ZkdZb--59" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="578" y="624.12" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UsHnhqmn-MaFl1FYfcPH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="150" width="330" height="177.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UsHnhqmn-MaFl1FYfcPH-2" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="175" width="330" height="10" as="geometry" />
+        </mxCell>
+        <UserObject label="+nome: String" placeholders="1" name="Variable" id="UsHnhqmn-MaFl1FYfcPH-3">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="280" y="185" width="160" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UsHnhqmn-MaFl1FYfcPH-4" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="210" width="330" height="10" as="geometry" />
+        </mxCell>
+        <UserObject label="trasporti" placeholders="1" name="Variable" id="UsHnhqmn-MaFl1FYfcPH-5">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="399" y="157.5" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div align=&quot;left&quot;&gt;+Addlinea(linea):&amp;nbsp; boolean&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;+trasporti()&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+deletelinea(linea):boolean&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+gettrasporti(): trasporti&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+settrasporti(trasporti)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="UsHnhqmn-MaFl1FYfcPH-6">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+            <mxGeometry x="264.5" y="220" width="191" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UsHnhqmn-MaFl1FYfcPH-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="467" y="440" as="sourcePoint" />
+            <mxPoint x="467" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UsHnhqmn-MaFl1FYfcPH-9" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455.5" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsHnhqmn-MaFl1FYfcPH-11" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="684.12" width="60" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="+ArrayList&amp;lt;linea&amp;gt;" placeholders="1" name="Variable" id="UsHnhqmn-MaFl1FYfcPH-12">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="355.5" y="335" width="160" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
